@@ -1,4 +1,4 @@
-![docker-publish-to-dh](https://github.com/swaglive/docker-image-template/workflows/docker-publish-to-dh/badge.svg)
+![docker-publish-to-dh](https://github.com/swaglive/docker-rethinkdb/workflows/docker-publish-to-dh/badge.svg)
 
 This template will:
 1. Trigger workflow when
